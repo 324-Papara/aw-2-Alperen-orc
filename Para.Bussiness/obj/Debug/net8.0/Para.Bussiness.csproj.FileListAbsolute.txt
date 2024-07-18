@@ -1,0 +1,12 @@
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\bin\Debug\net8.0\Para.Bussiness.deps.json
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\bin\Debug\net8.0\Para.Bussiness.dll
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\bin\Debug\net8.0\Para.Bussiness.pdb
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.AssemblyInfo.cs
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.sourcelink.json
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.dll
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\refint\Para.Bussiness.dll
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\Para.Bussiness.pdb
+C:\Users\Alperen\Desktop\PaparaHafta2\pk-ppr\Para.Api\Para.Bussiness\obj\Debug\net8.0\ref\Para.Bussiness.dll
